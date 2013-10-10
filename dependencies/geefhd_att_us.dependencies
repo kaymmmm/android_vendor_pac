@@ -1,0 +1,30 @@
+[
+    {
+        "remote": "TeamLGOG",
+	"account": "TeamLGOG",
+        "repository": "android_device_lge_geefhd-common",
+        "target_path": "device/lge/geefhd-common",
+        "revision": "cm-10.2"
+    },
+    {
+	"remote": "TeamLGOG",
+	"account": "TeamLGOG",
+	"repository": "android_device_lge_geefhd_att_us",
+	"target_path": "device/lge/geefhd_att_us",
+	"revision": "cm-10.2"
+    },
+    {
+        "remote": "TeamLGOG",
+	"account": "TeamLGOG",
+        "repository": "android_kernel_lge_geefhd",
+        "target_path": "kernel/lge/geefhd",
+        "revision": "10.2-gprojbased"
+    },
+    {
+        "remote": "TeamLGOG",
+	"account": "TeamLGOG",
+        "repository":   "android_vendor_lge_geefhd",
+        "target_path":  "vendor/lge/geefhd",
+        "revision":     "cm-10.2"
+    }
+]

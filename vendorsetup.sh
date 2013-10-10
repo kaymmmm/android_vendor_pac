@@ -144,6 +144,7 @@ add_lunch_combo pac_primoc-userdebug
 add_lunch_combo pac_primou-userdebug
 # LGE
 add_lunch_combo pac_e975-userdebug
+add_lunch_combo pac_geefhd_att_us-userdebug
 add_lunch_combo pac_ls970-userdebug
 add_lunch_combo pac_p760-userdebug
 add_lunch_combo pac_p880-userdebug
