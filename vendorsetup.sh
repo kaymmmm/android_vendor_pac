@@ -3,6 +3,8 @@ add_lunch_combo pac_steelhead-userdebug
 # Oppo 2013
 add_lunch_combo pac_find5-userdebug
 # Xperia 2013
+##Board: Rhine
+add_lunch_combo pac_honami-userdebug
 ##Board: Fusion3
 add_lunch_combo pac_yuga-userdebug
 add_lunch_combo pac_odin-userdebug
@@ -56,6 +58,7 @@ add_lunch_combo pac_p3100-userdebug
 add_lunch_combo pac_p3110-userdebug
 # Nexus Devices
 add_lunch_combo pac_crespo-userdebug
+add_lunch_combo pac_deb-userdebug
 add_lunch_combo pac_flo-userdebug
 add_lunch_combo pac_grouper-userdebug
 add_lunch_combo pac_maguro-userdebug
@@ -97,6 +100,7 @@ add_lunch_combo pac_codinatmo-userdebug
 add_lunch_combo pac_d2att-userdebug
 add_lunch_combo pac_d2cri-userdebug
 add_lunch_combo pac_d2mtr-userdebug
+add_lunch_combo pac_d2spi-userdebug
 add_lunch_combo pac_d2spr-userdebug
 add_lunch_combo pac_d2tmo-userdebug
 add_lunch_combo pac_d2usc-userdebug
