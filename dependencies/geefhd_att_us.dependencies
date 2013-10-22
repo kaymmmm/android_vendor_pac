@@ -14,8 +14,8 @@
 	"revision": "cm-10.2"
     },
     {
-        "remote": "TeamLGOG",
-	"account": "TeamLGOG",
+        "remote": "kaymmmm",
+	"account": "kaymmmm",
         "repository": "android_kernel_lge_geefhd",
         "target_path": "kernel/lge/geefhd",
         "revision": "10.2-gprojbased"
