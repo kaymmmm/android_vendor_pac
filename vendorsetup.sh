@@ -41,7 +41,7 @@ add_lunch_combo pac_u8800pro-userdebug
 # LGE
 add_lunch_combo pac_d802-userdebug
 add_lunch_combo pac_e975-userdebug
-add_lunch_combo pac_e980-userdebug
+add_lunch_combo pac_geefhd_att_us-userdebug
 add_lunch_combo pac_ls970-userdebug
 add_lunch_combo pac_p760-userdebug
 add_lunch_combo pac_p880-userdebug
