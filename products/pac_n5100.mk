@@ -8,7 +8,7 @@ OVERLAY_TARGET := pa_tvdpi
 PRODUCT_PACKAGE_OVERLAYS += vendor/pac/overlay/aokp/device/n5110
 
 # PAC device overlay
-$(shell cp -f vendor/pac/prebuilt/common/bootanimation_framework/android-logo-mask_samsung-xhdpi.png frameworks/base/core/res/assets/images/android-logo-mask.png)
+#$(shell cp -f vendor/pac/prebuilt/common/bootanimation_framework/android-logo-mask_samsung-xhdpi.png frameworks/base/core/res/assets/images/android-logo-mask.png)
 
 # PAC boot logo
 PRODUCT_COPY_FILES += \
@@ -20,9 +20,6 @@ PRODUCT_COPY_FILES += \
 
 # include PAC common configuration
 include vendor/pac/config/pac_common.mk
-
-# vendor hack
-$(call vendor-replace,samsung,n5100)
 
 # Inherit CM device configuration
 $(call inherit-product, device/samsung/n5100/cm.mk)

@@ -1,5 +1,3 @@
-# Acer
-add_lunch_combo pac_a700-userdebug
 # Amazon
 add_lunch_combo pac_otter-userdebug
 add_lunch_combo pac_otter2-userdebug
@@ -16,6 +14,7 @@ add_lunch_combo pac_fireball-userdebug
 add_lunch_combo pac_endeavoru-userdebug
 add_lunch_combo pac_enrc2b-userdebug
 add_lunch_combo pac_evita-userdebug
+add_lunch_combo pac_glacier-userdebug
 add_lunch_combo pac_jewel-userdebug
 add_lunch_combo pac_marvel-userdebug
 add_lunch_combo pac_m7ul-userdebug
@@ -26,6 +25,8 @@ add_lunch_combo pac_m7vzw-userdebug
 add_lunch_combo pac_pico-userdebug
 add_lunch_combo pac_primoc-userdebug
 add_lunch_combo pac_primou-userdebug
+add_lunch_combo pac_pyramid-userdebug
+add_lunch_combo pac_ruby-userdebug
 add_lunch_combo pac_runnymede-userdebug
 add_lunch_combo pac_saga-userdebug
 add_lunch_combo pac_shooter-userdebug
@@ -39,6 +40,7 @@ add_lunch_combo pac_vivo-userdebug
 add_lunch_combo pac_u8860-userdebug
 add_lunch_combo pac_u8800pro-userdebug
 # LGE
+add_lunch_combo pac_d800-userdebug
 add_lunch_combo pac_d802-userdebug
 add_lunch_combo pac_e975-userdebug
 add_lunch_combo pac_e980-userdebug
@@ -48,6 +50,7 @@ add_lunch_combo pac_p880-userdebug
 add_lunch_combo pac_p930-userdebug
 add_lunch_combo pac_su640-userdebug
 add_lunch_combo pac_vs920-userdebug
+add_lunch_combo pac_vs980-userdebug
 # Motorola
 add_lunch_combo pac_edison-userdebug
 add_lunch_combo pac_ghostatt-userdebug
@@ -71,6 +74,7 @@ add_lunch_combo pac_crespo-userdebug
 add_lunch_combo pac_deb-userdebug
 add_lunch_combo pac_flo-userdebug
 add_lunch_combo pac_grouper-userdebug
+add_lunch_combo pac_hammerhead-userdebug
 add_lunch_combo pac_maguro-userdebug
 add_lunch_combo pac_mako-userdebug
 add_lunch_combo pac_manta-userdebug
@@ -100,6 +104,7 @@ add_lunch_combo pac_fascinatemtd-userdebug
 add_lunch_combo pac_galaxysmtd-userdebug
 add_lunch_combo pac_galaxysl-userdebug
 add_lunch_combo pac_hercules-userdebug
+add_lunch_combo pac_hltetmo-userdebug
 add_lunch_combo pac_i605-userdebug
 add_lunch_combo pac_i777-userdebug
 add_lunch_combo pac_i927-userdebug
@@ -155,6 +160,8 @@ add_lunch_combo pac_p990-userdebug
 add_lunch_combo pac_p920-userdebug
 add_lunch_combo pac_p970-userdebug
 add_lunch_combo pac_tass-userdebug
+# Xiaomi
+add_lunch_combo pac_aries-userdebug
 # Xperia
 add_lunch_combo pac_anzu-userdebug
 add_lunch_combo pac_coconut-userdebug
