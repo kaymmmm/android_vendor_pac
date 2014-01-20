@@ -47,10 +47,10 @@
         <device FullName="Wildfire S" CodeName="marvel"/>
     </vendor>
     <vendor Name="Huawei">
-        <device FullName="Honor" CodeName="u8860"/>
-        <device FullName="Ideos X5 PRO" CodeName="u8800pro"/>
         <device FullName="Ascend G510" CodeName="u8951"/>
         <device FullName="Ascend Y300" CodeName="u8833"/>
+        <device FullName="Honor" CodeName="u8860"/>
+        <device FullName="Ideos X5 PRO" CodeName="u8800pro"/>
     </vendor>
     <vendor Name="LG">
         <device FullName="G2 (ATT)" CodeName="d800"/>
@@ -80,6 +80,8 @@
         <device FullName="Droid Bionic" CodeName="targa"/>
         <device FullName="Droid Razr" CodeName="umts_spyder"/>
         <device FullName="Droid Razr (Verizon)" CodeName="spyder"/>
+        <device FullName="Moto G (Global GSM)" CodeName="xt1032"/>
+        <device FullName="Moto G (Retail US)" CodeName="xt1034"/>
         <device FullName="Moto X (GSM)" CodeName="ghostgsm"/>
         <device FullName="Moto X (Sprint)" CodeName="ghostspr"/>
         <device FullName="Moto X (T-Mobile)" CodeName="ghosttmo"/>
@@ -106,6 +108,8 @@
         <device FullName="Galaxy Exibit (Wind/Videotron)" CodeName="codinavid"/>
         <device FullName="Galaxy Fit" CodeName="beni"/>
         <device FullName="Galaxy Gio" CodeName="gio"/>
+        <device FullName="Galaxy Mega (GSM)" CodeName="melius3gxx"/>
+        <device FullName="Galaxy Mega (LTE)" CodeName="meliusltexx"/>
         <device FullName="Galaxy Mini" CodeName="tass"/>
         <device FullName="Galaxy Nexus" CodeName="maguro"/>
         <device FullName="Galaxy Nexus" CodeName="toro"/>
@@ -121,6 +125,7 @@
         <device FullName="Galaxy Note 2 (US Cellular)" CodeName="r950"/>
         <device FullName="Galaxy Note 2 (Verizon)" CodeName="i605"/>
         <device FullName="Galaxy Note 3 (T-Mobile)" CodeName="hltetmo"/>
+        <device FullName="Galaxy Note 3 (International)" CodeName="hltexx"/>
         <device FullName="Galaxy Note 8.0 (GSM)" CodeName="N5100"/>
         <device FullName="Galaxy Note 8.0 (Wi-Fi)" CodeName="N5110"/>
         <device FullName="Galaxy Note 10.1 (GSM)" CodeName="N8013"/>

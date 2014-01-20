@@ -37,8 +37,10 @@ add_lunch_combo pac_ville-userdebug
 add_lunch_combo pac_villec2-userdebug
 add_lunch_combo pac_vivo-userdebug
 # Huawei
+add_lunch_combo pac_u8833-userdebug
 add_lunch_combo pac_u8860-userdebug
 add_lunch_combo pac_u8800pro-userdebug
+add_lunch_combo pac_u8951-userdebug
 # LGE
 add_lunch_combo pac_d800-userdebug
 add_lunch_combo pac_d802-userdebug
@@ -69,6 +71,8 @@ add_lunch_combo pac_vanquish-userdebug
 add_lunch_combo pac_vanquishgsm-userdebug
 add_lunch_combo pac_xt897-userdebug
 add_lunch_combo pac_xt897c-userdebug
+add_lunch_combo pac_xt1032-userdebug
+add_lunch_combo pac_xt1034-userdebug
 # Nexus
 add_lunch_combo pac_crespo-userdebug
 add_lunch_combo pac_deb-userdebug
@@ -105,6 +109,7 @@ add_lunch_combo pac_galaxysmtd-userdebug
 add_lunch_combo pac_galaxysl-userdebug
 add_lunch_combo pac_hercules-userdebug
 add_lunch_combo pac_hltetmo-userdebug
+add_lunch_combo pac_hltexx-userdebug
 add_lunch_combo pac_i605-userdebug
 add_lunch_combo pac_i777-userdebug
 add_lunch_combo pac_i927-userdebug
@@ -124,6 +129,8 @@ add_lunch_combo pac_jflteusc-userdebug
 add_lunch_combo pac_jfltevzw-userdebug
 add_lunch_combo pac_jfltexx-userdebug
 add_lunch_combo pac_l900-userdebug
+add_lunch_combo pac_melius3gxx-userdebug
+add_lunch_combo pac_meliusltexx-userdebug
 add_lunch_combo pac_mesmerizemtd-userdebug
 add_lunch_combo pac_n5100-userdebug
 add_lunch_combo pac_n5110-userdebug

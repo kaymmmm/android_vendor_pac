@@ -76,10 +76,6 @@ Acer:
 * __Iconia Tab A700 (a700) :__ semhoun
 
 
-Acer:
----------------------------------------------------------------------
-* _Iconia Tab A700 (a700) :__ semhoun
-
 Amazon:
 ---------------------------------------------------------------------
 * __Kindle Fire (otter) :__ goldflame09
@@ -126,11 +122,7 @@ HTC:
 * __One S C2 (villec2) :__ dominos_liberty
 * __One X (endeavoru) :__ P.A.C.
 * __One X+ (enrc2b) :__ P.A.C.
-<<<<<<< HEAD
-* __One X (evita) :__ JoseGalRe
-=======
 * __One XL (evita) :__ JoseGalRe
->>>>>>> 8af293d59e5abcb7b48b69ce34d9e3c440023f4c
 * __One V (primo) :__ Black
 * __Rezound (vigor) :__ IAmTheOneTheyCallNeo
 * __Runnymede(runnymede) :__ onejay09
@@ -141,24 +133,19 @@ HTC:
 
 HUAWEI:
 ---------------------------------------------------------------------
-* __Honor (u8860) :__ herna
-* __Ideos X5 PRO (u8800pro) :__ herna
 * __Ascend G510 (u8951) :__ Dazzozo, eloimuns
 * __Ascend Y300 (u8833) :__ Dazzozo, eloimuns
+* __Honor (u8860) :__ herna
+* __Ideos X5 PRO (u8800pro) :__ herna
 
 
 LG:
 ---------------------------------------------------------------------
-<<<<<<< HEAD
-* __G2 (d802) :__ gerrett84
-* __Nexus 4 (mako) :__ apascual89, zyonee
-=======
 * __G2 (d800) :__ gerrett84
 * __G2 (d802) :__ gerrett84
 * __G2 (Verizon) (vs980) :__ tucstwo, gr33nd3vil
 * __Nexus 4 (mako) :__ kd8bny
 * __Nexus 5 (hammerhead) :__ Owain94, zyonee
->>>>>>> 8af293d59e5abcb7b48b69ce34d9e3c440023f4c
 * __Nitro HD (p930) :__ tdm.code
 * __Optimus 2X (p990) :__ metaiiica
 * __Optimus 3D (p920) :__ berni987654321
@@ -174,6 +161,7 @@ LG:
 * __Optimus One (p500) :__ OldDroid
 * __Spectrum (vs920) :__ tdm.code
 
+
 Motorola:
 ---------------------------------------------------------------------
 * __Atrix 2 (edison) :__ ravikirancg
@@ -183,6 +171,8 @@ Motorola:
 * __Droid Bionic (Verizon) (targa) :__ Bkjolly
 * __Droid Razr (GSM) (umts_spyder) :__ surdu_petru
 * __Droid Razr(Verizon) (spyder) :__ surdu_petru
+* __Moto G (Global GSM) (xt1032) :__ Wechy77
+* __Moto G (Retail US GSM) (xt1034) :__ Wechy77
 * __Moto X (GSM) (ghostgsm) :__ All Credit for these builds goto Dhacker29, Bkjolly, Skiwong20
 * __Moto X (Sprint) (ghosttmo) :__ All Credit for these builds goto Dhacker29, Bkjolly, Skiwong20
 * __Moto X (T-Mobile) (ghosttmo) :__ All Credit for these builds goto Dhacker29, Bkjolly, Skiwong20
@@ -213,6 +203,8 @@ Samsung:
 * __Galaxy Exibit (Wind/Videotron) (codinavid) :__ Unjustifed Dev
 * __Galaxy Fit (beni) :__ speedbot
 * __Galaxy Gio (gio) :__ OldDroid
+* __Galaxy Mega 6.3 (GSM) (melius3gxx) :__ Grarak, Silesh.Nair
+* __Galaxy Mega 6.3 (LTE) (meliusltexx) :__ Grarak, Silesh.Nair
 * __Galaxy Mini (tass) :__ Paul-L
 * __Galaxy Nexus (maguro) :__ -Jesco-
 * __Galaxy Nexus (toro) :__ Bkjolly
@@ -228,6 +220,7 @@ Samsung:
 * __Galaxy Note 2 (US Cellular) (r950) :__ 123sit
 * __Galaxy Note 2 (Verizon) (i605) :__ gchild320
 * __Galaxy Note 3 (T-Mobile) (hltetmo) :__ apascual89
+* __Galaxy Note 3 (International) (hltexx) :__ kenzolo
 * __Galaxy Note 8.0 (GSM) (N5100) :__ iurnait, ryukiri
 * __Galaxy Note 8.0 (Wi-Fi) (N5110) :__ iurnait, ryukiri
 * __Galaxy Note 10.1 (N8000) :__ pimpmaneaton
@@ -306,7 +299,7 @@ Sony Ericsson:
 * __Xperia Neo (hallon) :__ Druboo666, Langes
 * __Xperia Neo V (haida) :__ Druboo666, Langes
 * __Xperia Pro (iyokan) :__ Langes
-* __Xperia Ray (urushi) :__ szl.kiev, Wechy77, Langes
+* __Xperia Ray (urushi) :__ szl.kiev, Langes
 * __Xperia Play (zeus) :__ garwedgess
 
 
@@ -318,12 +311,8 @@ Xiaomi:
 ZTE:
 ---------------------------------------------------------------------
 * __Blade 3 (atlas40) :__ KonstaT, robt77
-<<<<<<< HEAD
-Total Devices: 170
-=======
 
-Total Devices: 179
->>>>>>> 8af293d59e5abcb7b48b69ce34d9e3c440023f4c
+Total Devices: 188
 
 Best regards
      szl.kiev
