@@ -17,9 +17,7 @@ add_lunch_combo pac_evita-userdebug
 add_lunch_combo pac_glacier-userdebug
 add_lunch_combo pac_jewel-userdebug
 add_lunch_combo pac_marvel-userdebug
-add_lunch_combo pac_m7ul-userdebug
-add_lunch_combo pac_m7att-userdebug
-add_lunch_combo pac_m7tmo-userdebug
+add_lunch_combo pac_m7-userdebug
 add_lunch_combo pac_m7spr-userdebug
 add_lunch_combo pac_m7vzw-userdebug
 add_lunch_combo pac_pico-userdebug
@@ -43,10 +41,12 @@ add_lunch_combo pac_u8800pro-userdebug
 add_lunch_combo pac_u8951-userdebug
 # LGE
 add_lunch_combo pac_d800-userdebug
+add_lunch_combo pac_d801-userdebug
 add_lunch_combo pac_d802-userdebug
 add_lunch_combo pac_e975-userdebug
 add_lunch_combo pac_e980-userdebug
 add_lunch_combo pac_ls970-userdebug
+add_lunch_combo pac_ls980-userdebug
 add_lunch_combo pac_p760-userdebug
 add_lunch_combo pac_p880-userdebug
 add_lunch_combo pac_p930-userdebug
@@ -139,6 +139,8 @@ add_lunch_combo pac_n7100-userdebug
 add_lunch_combo pac_n8000-userdebug
 add_lunch_combo pac_n8013-userdebug
 add_lunch_combo pac_p1-userdebug
+add_lunch_combo pac_p4-userdebug
+add_lunch_combo pac_p4wifi-userdebug
 add_lunch_combo pac_p5-userdebug
 add_lunch_combo pac_p5wifi-userdebug
 add_lunch_combo pac_p3100-userdebug
