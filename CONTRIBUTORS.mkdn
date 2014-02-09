@@ -106,15 +106,9 @@ GOOGLE:
 HTC:
 ---------------------------------------------------------------------
 * __Amaze 4G (ruby) :__ JoseGalRe
-* __Desire HD (ace) :__ blindndumb
-* __Desire S (saga) :__ blindndumb
 * __Droid DNA (dlx) :__ pio_masaki
 * __Droid Incredible 4G (fireball) :__ jose51197
-* __Evo 3D (shooter) :__ cmbaughman
-* __Evo 3D (GSM)(shooteru) :__ cmbaughman
 * __Evo LTE (jewel) :__ jamieg71
-* __Explorer (pico) :__ NiharG
-* __Evo V (shootervm) :__ cmbaughman
 * __MyTouch 4G (glacier) :__ JoseGalRe
 * __One (AT&T) (m7) :__ MaDc0w
 * __One (GSM)(m7) :__ MaDc0w
@@ -122,24 +116,17 @@ HTC:
 * __One (T-Mobile) (m7) :__ MaDc0w
 * __One (Verizon) (m7vzw) :__ Flyhalf205
 * __One S (ville) :__ atrus5
-* __One S C2 (villec2) :__ dominos_liberty
+* __One S C2 (villec2) :__ bilal_liberty
 * __One X (endeavoru) :__ Techinstein
 * __One X+ (enrc2b) :__  Techinstein
 * __One XL (evita) :__ JoseGalRe, Techinstein
-* __One V (primo) :__ Black
-* __Rezound (vigor) :__ IAmTheOneTheyCallNeo
-* __Runnymede(runnymede) :__ onejay09
-* __Sensation (pyramid) :__ dominos_liberty
-* __Vivo (vivo) :__ blindndumb
-* __Wildfire S (marvel) :__ crossfire77
+* __Sensation (pyramid) :__ bilal_liberty
 
 
 HUAWEI:
 ---------------------------------------------------------------------
 * __Ascend G510 (u8951) :__ Dazzozo, eloimuns
 * __Ascend Y300 (u8833) :__ Dazzozo, eloimuns
-* __Honor (u8860) :__ herna
-* __Ideos X5 PRO (u8800pro) :__ herna
 
 
 LG:
@@ -152,18 +139,14 @@ LG:
 * __Nexus 4 (mako) :__ kd8bny
 * __Nexus 5 (hammerhead) :__ Owain94, zyonee
 * __Nitro HD (p930) :__ tdm.code
-* __Optimus 2X (p990) :
-* __Optimus 3D (p920) :__ berni987654321
 * __Optimus 4X (p880) :__ berni987654321
 * __Optimus Black (p970) :__ zaclimon
 * __Optimus L5 (e610) :__ herna, bart452
 * __Optimus L9 (p760) :__ adamz667
-* __Optimus LTE (su640) :__ tdm.code
 * __Optimus G (e970) :__ neighborhoodhacker
 * __Optimus G (e973) :__ haze028
 * __Optimus G (e975) :__ faust93
 * __Optimus G (ls970) (Sprint):__ spleef, neighborhoodhacker
-* __Optimus One (p500) :__ OldDroid
 * __Spectrum (vs920) :__ tdm.code
 
 
@@ -171,18 +154,17 @@ Motorola:
 ---------------------------------------------------------------------
 * __Atrix 2 (edison) :__ ravikirancg
 * __Atrix HD (mb886) :__ skeevy420
-* __Droid 3 (Verizon) (solana) :__ Bkjolly
 * __Droid 4 (Verizon) (maserati) :__ Bkjolly
 * __Droid Bionic (Verizon) (targa) :__ Bkjolly
 * __Droid Razr (GSM) (umts_spyder) :__ surdu_petru
 * __Droid Razr(Verizon) (spyder) :__ surdu_petru
-* __Moto G (Global GSM) (xt1032) :__ Wechy77
-* __Moto G (Retail US GSM) (xt1034) :__ Wechy77
-* __Moto X (GSM) (ghostgsm) :__ All Credit for these builds goto Dhacker29, Bkjolly, Skiwong20
-* __Moto X (Sprint) (ghosttmo) :__ All Credit for these builds goto Dhacker29, Bkjolly, Skiwong20
-* __Moto X (T-Mobile) (ghosttmo) :__ All Credit for these builds goto Dhacker29, Bkjolly, Skiwong20
-* __Moto X (US Cellular) (ghostusc) :__ All Credit for these builds goto Dhacker29, Bkjolly, Skiwong20
-* __Moto X (Verizon-Developer Edition) (ghostvzw) :__ All Credit for these builds goto Dhacker29, Bkjolly, Skiwong20
+* __Moto G (Global GSM) (falcon) :__ Wechy77 , herna
+* __Moto G (Retail US GSM) (falcon) :__ Wechy77 , herna
+* __Moto X (GSM) (ghostgsm) :__ Dhacker29, Bkjolly, Skiwong20
+* __Moto X (Sprint) (ghosttmo) :__ Dhacker29, Bkjolly, Skiwong20
+* __Moto X (T-Mobile) (ghosttmo) :__ Dhacker29, Bkjolly, Skiwong20
+* __Moto X (US Cellular) (ghostusc) :__ Dhacker29, Bkjolly, Skiwong20
+* __Moto X (Verizon-Developer Edition) (ghostvzw) :__ Dhacker29, Bkjolly, Skiwong20
 * __Photon Q (Sprint) (xt897c) :__ arrrghhh
 * __Photon Q (GSM) (xt897) :__ arrrghhh
 * __Razr HD (GSM) (vanquishgsm) :__ Bkjolly
@@ -197,30 +179,22 @@ Oppo:
 
 Samsung:
 ---------------------------------------------------------------------
-* __Captivate Glide (i927) :__ Kick Buttowski
 * __Epic 4G (epicmtd) :__ Unjustified Dev.
 * __Epic 4G Touch (Sprint) (d710) :__ Sniper
 * __Exhilarate (AT&T) (sgh-1577) :__ InkSlinger420
 * __Fascinate (fascinatemtd) :__ Unjustified Dev
-* __Galaxy Ace (cooper) :__ OldDroid
-* __Galaxy Exibit (Metro PCS) (codinamtr) :__ Unjustifed Dev
-* __Galaxy Exibit (T-Mobile) (codinatmo) :__ Unjustifed Dev
-* __Galaxy Exibit (Wind/Videotron) (codinavid) :__ Unjustifed Dev
-* __Galaxy Fit (beni) :__ speedbot
-* __Galaxy Gio (gio) :__ OldDroid
 * __Galaxy Mega 6.3 (GSM) (melius3gxx) :__ Grarak, Silesh.Nair
 * __Galaxy Mega 6.3 (LTE) (meliusltexx) :__ Grarak, Silesh.Nair
-* __Galaxy Mini (tass) :__ Paul-L
 * __Galaxy Nexus (maguro) :__ -Jesco-
 * __Galaxy Nexus (toro) :__ Bkjolly
 * __Galaxy Nexus (toroplus) :__ Bkjolly
-* __Galaxy Note (n7000) :__ beerbong
+* __Galaxy Note (n7000) :__ herna
 * __Galaxy Note (quincyatt) :__ AD5GB
 * __Galaxy Note (quincytmo) :__ AD5GB
-* __Galaxy Note 2 (AT&T) (t0lteatt) :__ BLOWNCO, gchild320
-* __Galaxy Note 2 (GSM) (n7100) :__ abhisahara, Owain94
-* __Galaxy Note 2 (LTE) (t0lte) :__ BLOWNCO, gchild320
-* __Galaxy Note 2 (Sprint) (l900) :__ BLOWNCO
+* __Galaxy Note 2 (AT&T) (t0lteatt) :__ gchild320
+* __Galaxy Note 2 (GSM) (n7100) :__ gchild320
+* __Galaxy Note 2 (LTE) (t0lte) :__ gchild320
+* __Galaxy Note 2 (Sprint) (l900) :__ gchild320
 * __Galaxy Note 2 (T-Mobile) (t0ltetmo) :__ gchild320
 * __Galaxy Note 2 (US Cellular) (r950) :__ 123sit
 * __Galaxy Note 2 (Verizon) (i605) :__ gchild320
@@ -228,15 +202,14 @@ Samsung:
 * __Galaxy Note 3 (International) (hltexx) :__ kenzolo
 * __Galaxy Note 8.0 (GSM) (N5100) :__ iurnait, ryukiri
 * __Galaxy Note 8.0 (Wi-Fi) (N5110) :__ iurnait, ryukiri
+* __Galaxy Note 8.0 (LTE) (N5120) :__ ryukiri
 * __Galaxy Note 10.1 (N8000) :__ pimpmaneaton
 * __Galaxy Note 10.1 (N8013) :__ pimpmaneaton
 * __Galaxy Player 4.0 (ypg1) :__ goldflame09, iurnait, zaclimon
 * __Galaxy Player 5.0 (venturi) :__ iurnait
-* __Galaxy R (i9103) :__ Grarak
 * __Galaxy S I (galaxysmtd) :__ aways
 * __Galaxy S LCD (galaxysl) :__ AndreRaptor
 * __Galaxy S I Captivate (captivatemtd) :__ Nick0703
-* __Galaxy S I Plus (ariesve) :__ krislibaeer
 * __Galaxy S II (i9100) :__ bluefa1con
 * __Galaxy S II (i9100G) :__ bluefa1con
 * __Galaxy S II LTE (AT&T) (skyrocket) :__ gs2usr
@@ -252,26 +225,22 @@ Samsung:
 * __Galaxy S III (T-Mobile) (d2tmo) :__ Papa Smurf151
 * __Galaxy S III (US Cellular) (d2usc) :__ Papa Smurf151
 * __Galaxy S III (Verizon) (d2vzw) :__ Papa Smurf151
-* __Galaxy S IV (GSM) (i9500) :__ Grarak
 * __Galaxy S IV (AT&T) (jflteatt) :__ ga2usr
 * __Galaxy S IV (Canada) (jfltecan) :__ Nick0703
-* __Galaxy S IV (Cricket) (jfltecri) :__ BLOWNCO
+* __Galaxy S IV (Cricket) (jfltecri) :__ Nick0703
 * __Galaxy S IV (C-Spire) (jfltecsp) :__ RIPng
-* __Galaxy S IV (GSM) (jfltexx) :__ vertigo2012
+* __Galaxy S IV (GSM) (jfltexx) :__metaiiica, vertigo2012
 * __Galaxy S IV (Sprint) (jfltespr) :__ Sniper
-* __Galaxy S IV (T-Mobile) (jfltetmo) :__ apascual89
+* __Galaxy S IV (T-Mobile) (jfltetmo) :__ Nick0703
 * __Galaxy S IV (US Cellular) (jflteusc) :__ Sniper
 * __Galaxy S IV (Verizon) (jfltevzw) :__ RIPng
 * __Galaxy S Blaze 4G (T-Mobile) (t769) :__ InkSlinger420
-* __Galaxy Tab 7' (p1000) :__ OldDroid
-* __Galaxy Tab 8.9 (GSM) (p5) :__ mithun46
-* __Galaxy Tab 8.9 (Wi-Fi) (p5wifi) :__ mithun46
 * __Galaxy Tab 10.1' (GSM) (p4) :__ JoseGalRe
 * __Galaxy Tab 10.1' (Wi-Fi) (p4wifi) :__ JoseGalRe
-* __Galaxy Tab 10' (p7100) :__ BLOWNCO
-* __Galaxy Tab 2 7' (p3100/P3110) :__ Nick0703
-* __Galaxy Tab 2 10' (p5100/P5110) :__ BLOWNCO, pvyParts
-* __Galaxy W (i8150) :__ krislibaeer
+* __Galaxy Tab 2 7' (p3100) :__ Nick0703
+* __Galaxy Tab 2 7' (P3110) :__ Nick0703
+* __Galaxy Tab 2 10' (p5100) :__ pvyParts
+* __Galaxy Tab 2 10' (P5110) :__ pvyParts
 * __Mesmerize (mesmerizemtd) :__ Unjustifed Dev
 * __Nexus S (crespo) :__ berni987654321
 * __Nexus 10 (manta) :__ apascual89
@@ -280,16 +249,9 @@ Samsung:
 
 Sony:
 ---------------------------------------------------------------------
-* __Xperia GO (lotus) :__ percy_g2
-* __Xperia P (nypon) :__ percy_g2
-* __Xperia Sola (pepper) :__ percy_g2
 * __Xperia SP (huashan) :__ jacknb1ack
-* __Xperia T (mint) :__ djpbx
 * __Xperia Tablet Z LTE (pollux) :__ bluefa1con
 * __Xperia Tablet Z (pollux_windy) :__ bluefa1con
-* __Xperia TX (hayabusa) :__ djpbx
-* __Xperia U (kumquat) :__ percy_g2
-* __Xperia V (tsubasa) :__ djpbx
 * __Xperia Z (yuga) :__ jeroenqui, pvyParts
 * __Xperia Z1 (honami) :__ jeroenqui
 * __Xperia ZL (odin) :__ havanahjoe
@@ -307,7 +269,6 @@ Sony Ericsson:
 * __Xperia Neo V (haida) :__ Druboo666, Langes
 * __Xperia Pro (iyokan) :__ Langes
 * __Xperia Ray (urushi) :__ szl.kiev, Langes
-* __Xperia Play (zeus) :__ garwedgess
 
 
 Xiaomi:
@@ -320,7 +281,7 @@ ZTE:
 * __Blade 3 (atlas40) :__ KonstaT, robt77
 
 
-Total Devices: 192
+Total Devices: 152
 
 
 Best regards

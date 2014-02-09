@@ -1,11 +1,11 @@
 # Check for target product
-ifeq (pac_p5,$(TARGET_PRODUCT))
+ifeq (pac_n5120,$(TARGET_PRODUCT))
 
 # OVERLAY_TARGET adds overlay asset source
-OVERLAY_TARGET := pa_nav_tvdpi
+OVERLAY_TARGET := pa_tvdpi
 
 # AOKP device overlay
-PRODUCT_PACKAGE_OVERLAYS += vendor/pac/overlay/aokp/device/p5wifi
+PRODUCT_PACKAGE_OVERLAYS += vendor/pac/overlay/aokp/device/n5110
 
 # PAC boot logo
 PRODUCT_COPY_FILES += \
@@ -19,8 +19,8 @@ PRODUCT_COPY_FILES += \
 include vendor/pac/config/pac_common.mk
 
 # Inherit CM device configuration
-$(call inherit-product, device/samsung/p5wifi/cm.mk)
+$(call inherit-product, device/samsung/n5120/cm.mk)
 
-PRODUCT_NAME := pac_p5wifi
+PRODUCT_NAME := pac_n5120
 
 endif
