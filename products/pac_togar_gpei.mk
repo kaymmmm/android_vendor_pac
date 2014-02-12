@@ -1,11 +1,11 @@
 # Check for target product
-ifeq (pac_e980,$(TARGET_PRODUCT))
+ifeq (pac_togari_gpe,$(TARGET_PRODUCT))
 
 # OVERLAY_TARGET adds overlay asset source
 OVERLAY_TARGET := pa_xxhdpi
 
 # AOKP device overlay
-PRODUCT_PACKAGE_OVERLAYS += vendor/pac/overlay/aokp/device/e980
+PRODUCT_PACKAGE_OVERLAYS += vendor/pac/overlay/aokp/device/togari
 
 # PAC boot logo
 PRODUCT_COPY_FILES += \
@@ -13,14 +13,14 @@ PRODUCT_COPY_FILES += \
 
 # Copy bootanimation
 PRODUCT_COPY_FILES += \
-    vendor/pac/prebuilt/xxhdpi/bootanimation.zip:system/media/bootanimation.zip
+    vendor/pac/prebuilt/xxhdpi/8x/bootanimation.zip:system/media/bootanimation.zip
 
 # include PAC common configuration
 include vendor/pac/config/pac_common.mk
 
 # Inherit CM device configuration
-$(call inherit-product, device/lge/e980/cm.mk)
+$(call inherit-product, device/sony/togari_gpe/cm.mk)
 
-PRODUCT_NAME := pac_e980
+PRODUCT_NAME := pac_togari_gpe
 
 endif
