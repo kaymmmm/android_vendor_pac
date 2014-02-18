@@ -1,6 +1,6 @@
   {
     "remote": "github",
-    "account": "CyanogenMod",
+    "account": "kaymmmm",
     "repository": "android_device_lge_980",
     "target_path": "device/lge/e980",
     "revision": "cm-11.0"
