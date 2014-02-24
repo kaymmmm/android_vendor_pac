@@ -5,7 +5,7 @@ ifeq (pac_n1,$(TARGET_PRODUCT))
 OVERLAY_TARGET := pa_xxhdpi
 
 # AOKP device overlay
-PRODUCT_PACKAGE_OVERLAYS += vendor/pac/overlay/aokp/device/n1
+#PRODUCT_PACKAGE_OVERLAYS += vendor/pac/overlay/aokp/device/n1
 
 # PAC boot logo
 PRODUCT_COPY_FILES += \
@@ -13,7 +13,7 @@ PRODUCT_COPY_FILES += \
 
 # Copy bootanimation
 PRODUCT_COPY_FILES += \
-    vendor/pac/prebuilt/xxhdpi/bootanimation.zip:system/media/bootanimation.zip
+    vendor/pac/prebuilt/1080x1920/bootanimation.zip:system/media/bootanimation.zip
 
 # include PAC common configuration
 include vendor/pac/config/pac_common.mk

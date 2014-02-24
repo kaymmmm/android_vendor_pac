@@ -5,7 +5,7 @@ ifeq (pac_serrano3gxx,$(TARGET_PRODUCT))
 OVERLAY_TARGET := pa_hdpi
 
 # AOKP device overlay
-PRODUCT_PACKAGE_OVERLAYS += vendor/pac/overlay/aokp/device/serrano
+#PRODUCT_PACKAGE_OVERLAYS += vendor/pac/overlay/aokp/device/serrano
 
 # PAC boot logo
 PRODUCT_COPY_FILES += \
@@ -13,7 +13,7 @@ PRODUCT_COPY_FILES += \
 
 # Copy bootanimation
 PRODUCT_COPY_FILES += \
-    vendor/pac/prebuilt/hdpi/bootanimation.zip:system/media/bootanimation.zip
+    vendor/pac/prebuilt/480x854/bootanimation.zip:system/media/bootanimation.zip
 
 # include PAC common configuration
 include vendor/pac/config/pac_common.mk

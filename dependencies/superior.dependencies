@@ -1,3 +1,4 @@
+[
   {
     "remote": "github",
     "account": "CyanogenMod",
@@ -23,7 +24,7 @@
     "remote": "github",
     "account": "CyanogenMod",
     "repository": "android_packages_apps_SamsungServiceMode",
-    "target_path": "packages/apps/SamsungServiceMode"m",
+    "target_path": "packages/apps/SamsungServiceMode",
     "revision": "cm-11.0"
   },
   {

@@ -11,11 +11,11 @@ PRODUCT_PACKAGE_OVERLAYS += vendor/pac/overlay/aokp/common_tablet
 PRODUCT_PACKAGE_OVERLAYS += vendor/pac/overlay/pac/mdpi
 
 # PA device overlay
-PRODUCT_PACKAGE_OVERLAYS += vendor/pa/overlay/pa_tf700t
+#PRODUCT_PACKAGE_OVERLAYS += vendor/pa/overlay/pa_tf700t
 
 # Copy bootanimation
 PRODUCT_COPY_FILES += \
-    vendor/pac/prebuilt/xhdpi/bootanimation.zip:system/media/bootanimation.zip
+    vendor/pac/prebuilt/1920x1200/bootanimation.zip:system/media/bootanimation.zip
 
 # include PAC common configuration
 include vendor/pac/config/pac_common.mk
