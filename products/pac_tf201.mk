@@ -4,10 +4,6 @@ ifeq (pac_tf201,$(TARGET_PRODUCT))
 # OVERLAY_TARGET adds overlay asset source
 OVERLAY_TARGET := pa_tf201
 
-# AOKP device overlay
-PRODUCT_PACKAGE_OVERLAYS += vendor/pac/overlay/aokp/device/tf201
-PRODUCT_PACKAGE_OVERLAYS += vendor/pac/overlay/aokp/common_tablet
-
 # PAC device overlay
 PRODUCT_PACKAGE_OVERLAYS += vendor/pac/overlay/pac/hdpi
 
@@ -20,7 +16,7 @@ PRODUCT_COPY_FILES += \
 
 # Copy bootanimation
 PRODUCT_COPY_FILES += \
-    vendor/pac/prebuilt/1280x800/bootanimation.zip:system/media/bootanimation.zip
+    vendor/pac/prebuilt/720x1280/bootanimation.zip:system/media/bootanimation.zip
 
 # include PAC common configuration
 include vendor/pac/config/pac_common.mk
