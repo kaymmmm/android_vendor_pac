@@ -4,7 +4,7 @@
     "account": "kaymmmm",
     "repository": "android_device_lge_980",
     "target_path": "device/lge/e980",
-    "revision": "cm-11.0"
+    "revision": "pac-4.4"
   },
   {
     "remote": "github",
