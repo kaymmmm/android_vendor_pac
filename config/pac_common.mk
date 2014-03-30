@@ -8,6 +8,10 @@ PRODUCT_PROPERTY_OVERRIDES += \
 #PRODUCT_COPY_FILES += \
 #    vendor/pac/prebuilt/common/apk/PacConsole.apk:system/app/PacConsole.apk
 
+#Copy Theme Apks
+PRODUCT_COPY_FILES += \
+    vendor/pac/prebuilt/common/apk/PacX.apk:system/app/PacX.apk
+
 # Backup Tool
 PRODUCT_COPY_FILES += \
     vendor/pac/prebuilt/common/bin/50-backupScript.sh:system/addon.d/50-backupScript.sh \
@@ -124,9 +128,9 @@ CM_BUILD := $(BOARD)
 
 # Add PA release version
 PA_VERSION_MAJOR = 4
-PA_VERSION_MINOR = 0
+PA_VERSION_MINOR = 2
 PA_VERSION_MAINTENANCE =
-PA_PREF_REVISION = BETA4
+PA_PREF_REVISION = BETA2
 VERSION := $(PA_VERSION_MAJOR).$(PA_VERSION_MINOR)$(PA_VERSION_MAINTENANCE)
 PA_VERSION := pa_$(BOARD)-$(VERSION)-$(shell date +%0d%^b%Y-%H%M%S)
 
