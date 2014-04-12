@@ -19,9 +19,13 @@
 
 <manifest>
   <!-- Add new devices here -->
+  <device name="a510"/>
   <device name="a700"/>
+  <device name="acclaim"/>
   <device name="apexqtmo"/>
+  <device name="amami"/>
   <device name="captivatemtd"/>
+  <device name="codina"/>
   <device name="crespo"/>
 <!--  <device name="d803"/> -->
   <device name="d2lte"/>
@@ -31,11 +35,13 @@
   <device name="d802"/>
   <device name="deb"/>
   <device name="dlx"/>
+  <device name="dogo"/>
   <device name="e970"/>
   <device name="e973"/>
   <device name="e975"/>
   <device name="e980"/>
   <device name="edison"/>
+  <device name="encore"/>
 <!-- device name="endeavoru"-->
 <!-- device name="enrc2b"-->
   <device name="epicmtd"/>
@@ -64,12 +70,14 @@
   <device name="i9300"/>
   <device name="i9305"/>
   <device name="i9500"/>
+  <device name="janice"/>
   <device name="jem"/>
   <device name="jewel"/>
   <device name="jflte"/>
   <device name="l900"/>
   <device name="ls970"/>
   <device name="ls980"/>
+  <device name="m4"/>
   <device name="m7"/>
   <device name="m7spr"/>
   <device name="m7vzw"/>
@@ -96,6 +104,7 @@
   <device name="odin"/>
   <device name="otter"/>
   <device name="otter2"/>
+  <device name="ovation"/>
   <device name="p1"/>
 <!--  <device name="p760"/> -->
   <device name="p880"/>
@@ -108,7 +117,6 @@
   <device name="p5110"/>
   <device name="pollux"/>
   <device name="pollux_windy"/>
-  <device name="pyramid"/>
   <device name="quincyatt"/>
   <device name="quincytmo"/>
   <device name="r950"/>
@@ -119,7 +127,7 @@
   <device name="skyrocket"/>
   <device name="spyder"/>
   <device name="superior"/>
-<!--  <device name="steelhead"/> -->
+  <device name="steelhead"/>
   <device name="t0lte"/>
   <device name="t0lteatt"/>
   <device name="t0ltetmo"/>
@@ -129,6 +137,7 @@
 <!--  <device name="tf201"/> -->
   <device name="tf300t"/>
   <device name="tf700t"/>
+  <device name="tf701t"/>
   <device name="tilapia"/>
   <device name="togari"/>
   <device name="togari_gpe"/>

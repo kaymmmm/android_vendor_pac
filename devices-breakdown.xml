@@ -1,4 +1,8 @@
 <devices>
+    <vendor Name="Acer">
+        <device FullName="Acer Iconia A510" CodeName="a510"/>
+        <device FullName="Acer Iconia A700" CodeName="a700"/>
+    </vendor>
     <vendor Name="Amazon">
         <device FullName="Kindle Fire" CodeName="otter"/>
         <device FullName="Kindle Fire 2" CodeName="otter2"/>
@@ -12,7 +16,13 @@
         <device FullName="Nexus 7 (2013)" CodeName="flo"/>
         <device FullName="Nexus 7 LTE (2013)" CodeName="deb"/>
         <device FullName="Transformer Pad" CodeName="tf300t"/>
+		<device FullName="Transformer Pad" CodeName="tf701t"/>
         <device FullName="Transformer Pad Infinity" CodeName="tf700t"/>
+    </vendor>
+    <vendor Name="Barnes & Noble">
+	    <device FullName="Nook" CodeName="acclaim"/>
+        <device FullName="Nook Color" CodeName="encore"/>
+        <device FullName="Nook HD+" CodeName="ovation"/>
     </vendor>
     <vendor Name="Google">
         <device FullName="Nexus Q" CodeName="steelhead"/>
@@ -30,12 +40,12 @@
         <device FullName="One (Sprint)" CodeName="m7spr"/>
         <device FullName="One (T-Mobile)" CodeName="m7"/>
         <device FullName="One (Verizon)" CodeName="m7vzw"/>
+		<device FullName="One Mini" CodeName="m4"/>
         <device FullName="One S" CodeName="ville"/>
         <device FullName="One S C2" CodeName="villec2"/>
         <device FullName="One X" CodeName="endeavoru"/>
         <device FullName="One X+" CodeName="enrc2b"/>
         <device FullName="One XL" CodeName="evita"/>
-        <device FullName="Sensation" CodeName="pyramid"/>
     </vendor>
     <vendor Name="Huawei">
         <device FullName="Ascend G510" CodeName="u8951"/>
@@ -50,6 +60,7 @@
         <device FullName="Optimus 4X" CodeName="p880"/>
         <device FullName="Optimus Black" CodeName="p970"/>
         <device FullName="Optimus L5" CodeName="e610"/>
+        <device FullName="Optimus L7" CodeName="p705"/>
         <device FullName="Optimus L9" CodeName="p760"/>
         <device FullName="Optimus G (ATT)" CodeName="e970"/>
         <device FullName="Optimus G (Japan)" CodeName="e973"/>
@@ -97,6 +108,7 @@
         <device FullName="Fascinate" CodeName="fascinatemtd"/>
 	<device FullName="Galaxy Ace II" CodeName="codina"/>
         <device FullName="Galaxy Express (ATT)" CodeName="expressatt"/>
+        <device FullName="Galaxy Grand Duos" CodeName="i9082"/>
         <device FullName="Galaxy Mega (GSM)" CodeName="melius3gxx"/>
         <device FullName="Galaxy Mega (LTE)" CodeName="meliusltexx"/>
         <device FullName="Galaxy Nexus (GSM)" CodeName="maguro"/>
@@ -114,7 +126,7 @@
         <device FullName="Galaxy Note 2 (Verizon)" CodeName="i605"/>
         <device FullName="Galaxy Note 3 (Sprint)" CodeName="hlte"/>
         <device FullName="Galaxy Note 3 (T-Mobile)" CodeName="hlte"/>
-        <device FullName="Galaxy Note 3 (International)"CodeName="hlte"/>
+        <device FullName="Galaxy Note 3 (International)" CodeName="hlte"/>
         <device FullName="Galaxy Note 3 (Verizon)" CodeName="hlte"/>
         <device FullName="Galaxy Note 8.0 (GSM)" CodeName="N5100"/>
         <device FullName="Galaxy Note 8.0 (Wi-Fi)" CodeName="N5110"/>
@@ -158,7 +170,8 @@
         <device FullName="Galaxy S B" CodeName="galaxysbmtd"/>
         <device FullName="Galaxy S Blaze 4G (T-Mobile)" CodeName="t769"/>
         <device FullName="Galaxy S LCD" CodeName="galaxysl"/>
-        <device FullName="Galaxy Tab 7" "(GSM)" CodeName="p1"/>
+        <device FullName="Galaxy S Plus" CodeName="ariesve"/>
+        <device FullName="Galaxy Tab 7 (GSM)" CodeName="p1"/>
         <device FullName="Galaxy Tab 10.1 (GSM)" CodeName="p4"/>
         <device FullName="Galaxy Tab 10.1 (WiFi)" CodeName="p4wifi"/>
         <device FullName="Galaxy Tab 10" CodeName="p7100"/>
@@ -178,7 +191,9 @@
         <device FullName="Xperia V" CodeName="tsubasa"/>
         <device FullName="Xperia Z" CodeName="yuga"/>
         <device FullName="Xperia Z1" CodeName="honami"/>
+		<device FullName="Xperia Z1 Compact" CodeName="amami"/>
         <device FullName="Xperia ZL" CodeName="odin"/>
+		<device FullName="Xperia ZR" CodeName="dogo"/>
         <device FullName="Xperia Z Ultra" CodeName="togari"/>
         <device FullName="Xperia Z Ultra GPE" CodeName="togari_gpe"/>
     </vendor>

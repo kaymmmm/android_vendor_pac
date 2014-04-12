@@ -1,4 +1,5 @@
 <div>
+<a href="http://forum.xda-developers.com/showthread.php?t=2699971">Acer A510/A511             a510/a511      Shreps</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2510004">Acer a700:                 a700           semhoun</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2669292">Amaze 4G:                  ruby           JoseGalRe</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2256194">Atrix 2:                   edison          ravikirancg</a>
@@ -22,6 +23,7 @@
 <a href="http://forum.xda-developers.com/showthread.php?t=2268850">Find5:                     find5          apascual89</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2671203">Galaxy Ace II:             codina         iiD4x</a>
 <a href="http://forum.xda-developers.com/showthread.php?p=46692620">Galaxy Exibit Variants:   codinaxxx      Unjustified Dev</a>
+<a href="http://forum.xda-developers.com/showthread.php?t=2676762">Galaxy Grand Duos:         i9082          K2wl</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2197171">Galaxy S I Fascinate:      fascinatemtd Unjustified Dev</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2197171">Galaxy S I Showcase:       showcasemtd    Unjustified Dev</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2197171">Galaxy S I Mesmerize:      mesmerizemtd   Unjustified Dev</a>
@@ -102,6 +104,7 @@
 <a href="http://forum.xda-developers.com/showthread.php?t=2671622">LG Optimus G (Canadian):   e973          haze028</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2501074">LG Optimus G (Sprint):     ls970          neighborhoodhacker</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2418933">LG Optimus L5:             e610         bart452, herna</a>
+<a href="http://forum.xda-developers.com/showthread.php?t=2704650">LG Optimus L7:             p705         coderzs</a>
 <a href="http://forum.xda-developers.com/showthread.php?p=2195177">LG Optimus L9:             p760          adamz667</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2504830">Moto_msm8960dt-common Devices      moto_msm8960dt  skiwong20</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2667834">Moto G:                    falcon        Wechy77, herna</a>
@@ -125,6 +128,7 @@
 <a href="http://forum.xda-developers.com/showthread.php?t=2520954">One XL:                    evita         JoseGalRe</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2678702">Oppo Find 5:                    find5         eoghan2t7</a>
 <a href="http://forum.xda-developers.com/showthread.php?p=51015692">Oppo N1:                    n1         trialsrider1</a>
+<a href="Will update later">Nook HD+:                   Ovation         DarkStarr</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2415997">Photon Q 4G LTE            moto_msm8960   arrrghhh</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2306365">Razr HD (GSM)              moto_msm8960  Bkjolly</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2306365">Razr HD (Verizon)          moto_msm8960  Bkjolly</a>

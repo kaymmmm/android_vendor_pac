@@ -1,3 +1,6 @@
+# Acer
+add_lunch_combo pac_a510-userdebug
+add_lunch_combo pac_a700-userdebug
 # Amazon
 add_lunch_combo pac_otter-userdebug
 add_lunch_combo pac_otter2-userdebug
@@ -7,6 +10,11 @@ add_lunch_combo pac_jem-userdebug
 add_lunch_combo pac_tf201-userdebug
 add_lunch_combo pac_tf300t-userdebug
 add_lunch_combo pac_tf700t-userdebug
+add_lunch_combo pac_tf701t-userdebug
+# Barnes & Noble
+add_lunch_combo pac_acclaim-userdebug
+add_lunch_combo pac_encore-userdebug
+add_lunch_combo pac_ovation-userdebug
 # HTC
 add_lunch_combo pac_dlx-userbebug
 add_lunch_combo pac_fireball-userdebug
@@ -16,10 +24,10 @@ add_lunch_combo pac_evita-userdebug
 add_lunch_combo pac_glacier-userdebug
 add_lunch_combo pac_holiday-userdebug
 add_lunch_combo pac_jewel-userdebug
+add_lunch_combo pac_m4-userdebug
 add_lunch_combo pac_m7-userdebug
 add_lunch_combo pac_m7spr-userdebug
 add_lunch_combo pac_m7vzw-userdebug
-add_lunch_combo pac_pyramid-userdebug
 add_lunch_combo pac_ruby-userdebug
 add_lunch_combo pac_ville-userdebug
 add_lunch_combo pac_villec2-userdebug
@@ -39,6 +47,7 @@ add_lunch_combo pac_e975-userdebug
 add_lunch_combo pac_e980-userdebug
 add_lunch_combo pac_ls970-userdebug
 add_lunch_combo pac_ls980-userdebug
+add_lunch_combo pac_p705-userdebug
 add_lunch_combo pac_p760-userdebug
 add_lunch_combo pac_p880-userdebug
 add_lunch_combo pac_p930-userdebug
@@ -72,6 +81,7 @@ add_lunch_combo pac_find5-userdebug
 add_lunch_combo pac_n1-userdebug
 # Samsung
 add_lunch_combo pac_apexqtmo-userdebug
+add_lunch_combo pac_ariesve-userdebug
 add_lunch_combo pac_codina-userdebug
 add_lunch_combo pac_captivatemtd-userdebug
 add_lunch_combo pac_d2lte-userdebug
@@ -87,6 +97,7 @@ add_lunch_combo pac_hercules-userdebug
 add_lunch_combo pac_hlte-userdebug
 add_lunch_combo pac_i605-userdebug
 add_lunch_combo pac_i777-userdebug
+add_lunch_combo pac_i9082-userdebug
 add_lunch_combo pac_i9100-userdebug
 add_lunch_combo pac_i9100g-userdebug
 add_lunch_combo pac_i925-userdebug
@@ -128,6 +139,8 @@ add_lunch_combo pac_t769-userdebug
 add_lunch_combo pac_venturi-userdebug
 add_lunch_combo pac_ypg1-userdebug
 # Sony
+add_lunch_combo pac_amami-userdebug
+add_lunch_combo pac_dogo-userdebug
 add_lunch_combo pac_honami-userdebug
 add_lunch_combo pac_huashan-userdebug
 add_lunch_combo pac_mint-userdebug
