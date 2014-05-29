@@ -129,14 +129,14 @@ CM_BUILD := $(BOARD)
 PA_VERSION_MAJOR = 4
 PA_VERSION_MINOR = 2
 PA_VERSION_MAINTENANCE =
-PA_PREF_REVISION = BETA2
+PA_PREF_REVISION = BETA3
 VERSION := $(PA_VERSION_MAJOR).$(PA_VERSION_MINOR)$(PA_VERSION_MAINTENANCE)
 PA_VERSION := pa_$(BOARD)-$(VERSION)-$(shell date +%0d%^b%Y-%H%M%S)
 
 # PAC version
 PAC_VERSION_MAJOR = 4
 PAC_VERSION_MINOR = 4
-PAC_VERSION_MAINTENANCE = Alpha-1
+PAC_VERSION_MAINTENANCE := $(shell if [ -s ~/PACname ]; then cat ~/PACname; else echo "Beta-1.0"; fi)
 PAC_VERSION := $(PAC_VERSION_MAJOR).$(PAC_VERSION_MINOR).$(PAC_VERSION_MAINTENANCE)
 
 PRODUCT_PROPERTY_OVERRIDES += \
@@ -154,3 +154,8 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.pacstats.name=PAC-man \
     ro.pacstats.version=$(PAC_VERSION) \
     ro.pacstats.tframe=1
+
+# Disable ADB authentication and set root access to Apps and ADB
+ADDITIONAL_DEFAULT_PROPERTIES += \
+    ro.adb.secure=3 \
+    persist.sys.root_access=3

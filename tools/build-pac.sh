@@ -7,7 +7,7 @@ usage()
     echo -e "  build-pac.sh [options] device"
     echo -e ""
     echo -e ${txtbld}"  Options:"${txtrst}
-    echo -e "    -c# Cleanin options before build:"
+    echo -e "    -c# Cleaning options before build:"
     echo -e "        1 - make clean"
     echo -e "        2 - make dirty"
     echo -e "        3 - make magicbrownies"
@@ -23,7 +23,7 @@ usage()
     echo -e "    -v  Verbose build output"
     echo -e ""
     echo -e ${txtbld}"  Example:"${txtrst}
-    echo -e "    ./build-pac.sh -c hammerhead"
+    echo -e "    ./build-pac.sh -c1 hammerhead"
     echo -e ""
     exit 1
 }

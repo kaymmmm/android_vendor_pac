@@ -4,6 +4,7 @@ add_lunch_combo pac_a700-userdebug
 # Amazon
 add_lunch_combo pac_otter-userdebug
 add_lunch_combo pac_otter2-userdebug
+add_lunch_combo pac_otterx-userdebug
 add_lunch_combo pac_tate-userdebug
 add_lunch_combo pac_jem-userdebug
 # Asus device
@@ -28,6 +29,8 @@ add_lunch_combo pac_m4-userdebug
 add_lunch_combo pac_m7-userdebug
 add_lunch_combo pac_m7spr-userdebug
 add_lunch_combo pac_m7vzw-userdebug
+add_lunch_combo pac_m8-userdebug
+add_lunch_combo pac_pyramid-userdebug
 add_lunch_combo pac_ruby-userdebug
 add_lunch_combo pac_ville-userdebug
 add_lunch_combo pac_villec2-userdebug
@@ -47,6 +50,7 @@ add_lunch_combo pac_e975-userdebug
 add_lunch_combo pac_e980-userdebug
 add_lunch_combo pac_ls970-userdebug
 add_lunch_combo pac_ls980-userdebug
+add_lunch_combo pac_p500-userdebug
 add_lunch_combo pac_p705-userdebug
 add_lunch_combo pac_p760-userdebug
 add_lunch_combo pac_p880-userdebug
@@ -148,6 +152,7 @@ add_lunch_combo pac_nicki-userdebug
 add_lunch_combo pac_odin-userdebug
 add_lunch_combo pac_pollux-userdebug
 add_lunch_combo pac_pollux_windy-userdebug
+add_lunch_combo pac_taoshan-userdebug
 add_lunch_combo pac_tsubasa-userdebug
 add_lunch_combo pac_togari-userdebug
 add_lunch_combo pac_togari_gpe-userdebug

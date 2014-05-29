@@ -87,7 +87,7 @@
 <a href="http://forum.xda-developers.com/showthread.php?t=2202854">Galaxy Tab 2 7':           p3110          Nick0703</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2202885">Galaxy Tab 2 10':          p5100          BLOWNCO, pvyParts</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2202885">Galaxy Tab 2 10':          p5110          BLOWNCO, pvyParts</a>
-<a href="http://forum.xda-developers.com/showthread.php?t=2407455">Kindle Fire:               otter           goldflame09</a>
+<a href="http://forum.xda-developers.com/showthread.php?t=2407455">Kindle Fire:               otter/otterx           goldflame09</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2347951">Kindle Fire 2:             otter2           goldflame09</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2355103">Kindle Fire HD 7:          tate            goldflame09</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2356333">Kindle Fire HD 8.9:        jem             goldflame09</a>
@@ -122,6 +122,8 @@
 <a href="http://forum.xda-developers.com/showthread.php?t=2408340">One (Sprint):              m7spr         MallardDuck(Pocker09)</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2375475">One (T-Mobile):            m7            MaDc0w</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2455127">One (Verizon):             m7vzw        Flyhalf205</a>
+<a href="http://forum.xda-developers.com/showthread.php?t=2746553">One (2014):                m8            DREWHAMM974, Owain94</a>
+<a href="http://forum.xda-developers.com/showthread.php?t=2741847">One Mini:                  m4         WildfireDEV</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2164406">One S:                     ville         atrus5</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2271635">One S C2:                  villec2     bilal_liberty</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2292547">One X:                     endeavoru     razer1224</a>
@@ -129,6 +131,7 @@
 <a href="http://forum.xda-developers.com/showthread.php?t=2678702">Oppo Find 5:                    find5         eoghan2t7</a>
 <a href="http://forum.xda-developers.com/showthread.php?p=51015692">Oppo N1:                    n1         trialsrider1</a>
 <a href="Will update later">Nook HD+:                   Ovation         DarkStarr</a>
+<a href="http://forum.xda-developers.com/showthread.php?p=52542956">Nook Tablet:                   Acclaim         LowEndGeek</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2415997">Photon Q 4G LTE            moto_msm8960   arrrghhh</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2306365">Razr HD (GSM)              moto_msm8960  Bkjolly</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2306365">Razr HD (Verizon)          moto_msm8960  Bkjolly</a>
@@ -142,6 +145,7 @@
 <a href="http://forum.xda-developers.com/showthread.php?t=2677301">Vivid                      holiday        WildfireDEV</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2298280">Xperia Arc                 anzu          Langes, wedgess</a>
 <a href="http://forum.xda-developers.com/showthread.php?p=50939230">Xperia Active              satsuma       Langes</a>
+<a href="http://forum.xda-developers.com/showthread.php?p=52600121">Xperia L                   taoshan       Olivier</a>
 <a href="http://forum.xda-developers.com/showthread.php?p=50939230">Xperia LWW                 coconut       Langes</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2678107">Xperia M:                   nicki           Abhinav1997</a>
 <a href="http://forum.xda-developers.com/showthread.php?p=50939230">Xperia Mini                smultron      Langes</a>
