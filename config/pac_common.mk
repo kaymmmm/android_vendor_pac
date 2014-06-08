@@ -1,8 +1,8 @@
-# use AOSP default sounds
+# now use pac sounds
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.config.ringtone=Themos.ogg \
-    ro.config.notification_sound=Proxima.ogg \
-    ro.config.alarm_alert=Cesium.ogg
+    ro.config.ringtone=PAC-Ringtone.ogg \
+    ro.config.notification_sound=PAC-Notifications.ogg \
+    ro.config.alarm_alert=PAC-Alarm.ogg
 
 # Copy specific ROM files
 #PRODUCT_COPY_FILES += \
@@ -58,6 +58,12 @@ PRODUCT_COPY_FILES += \
     vendor/pac/prebuilt/common/etc/init.d/25loopy_smoothness_tweak:system/etc/init.d/25loopy_smoothness_tweak \
     vendor/pac/prebuilt/common/etc/init.d/98tweaks:system/etc/init.d/98tweaks \
     vendor/pac/prebuilt/common/etc/sysctl.conf:system/etc/sysctl.conf
+
+# Pac Sounds
+PRODUCT_COPY_FILES += \
+    vendor/pac/prebuilt/common/media/audio/alarms/PAC-Alarm.ogg:system/media/audio/alarms/PAC-Alarm.ogg \
+    vendor/pac/prebuilt/common/media/audio/notifications/PAC-Notifications.ogg:system/media/audio/notifications/PAC-Notifications.ogg \
+    vendor/pac/prebuilt/common/media/audio/ringtones/PAC-Ringtone.ogg:system/media/audio/ringtones/PAC-Ringtone.ogg
 
 # Added xbin files
 PRODUCT_COPY_FILES += \
@@ -127,15 +133,15 @@ CM_BUILD := $(BOARD)
 
 # Add PA release version
 PA_VERSION_MAJOR = 4
-PA_VERSION_MINOR = 2
+PA_VERSION_MINOR = 4
 PA_VERSION_MAINTENANCE =
-PA_PREF_REVISION = BETA3
+PA_PREF_REVISION = BETA1
 VERSION := $(PA_VERSION_MAJOR).$(PA_VERSION_MINOR)$(PA_VERSION_MAINTENANCE)
 PA_VERSION := pa_$(BOARD)-$(VERSION)-$(shell date +%0d%^b%Y-%H%M%S)
 
 # PAC version
 PAC_VERSION_MAJOR = 4
-PAC_VERSION_MINOR = 4
+PAC_VERSION_MINOR = 4.3
 PAC_VERSION_MAINTENANCE := $(shell if [ -s ~/PACname ]; then cat ~/PACname; else echo "Beta-1.0"; fi)
 PAC_VERSION := $(PAC_VERSION_MAJOR).$(PAC_VERSION_MINOR).$(PAC_VERSION_MAINTENANCE)
 
@@ -156,6 +162,8 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.pacstats.tframe=1
 
 # Disable ADB authentication and set root access to Apps and ADB
-ADDITIONAL_DEFAULT_PROPERTIES += \
-    ro.adb.secure=3 \
-    persist.sys.root_access=3
+ifeq ($(DISABLE_ADB_AUTH),true)
+    ADDITIONAL_DEFAULT_PROPERTIES += \
+        ro.adb.secure=3 \
+        persist.sys.root_access=3
+endif
